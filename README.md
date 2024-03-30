@@ -1,1 +1,1 @@
-# Simple React App to practice Docker.
+# Simple React App to practice Docker
